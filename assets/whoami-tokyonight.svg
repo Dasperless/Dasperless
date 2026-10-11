@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 390" width="960" height="390" role="img" aria-labelledby="title desc">
+  <title id="title">Adrian Dario — Computer Engineer &amp; Software Developer</title>
+  <desc id="desc">Tokyo Night styled terminal profile card with Adrian Dario's background, core focus and technical expertise.</desc>
+  <defs>
+    <linearGradient id="tn-border" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#7aa2f7"/>
+      <stop offset="0.5" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <linearGradient id="neon-glow" x1="0" x2="1" y1="0" y2="0">
+      <stop stop-color="#7aa2f7" stop-opacity="0.3"/>
+      <stop stop-color="#bb9af7" stop-opacity="0.4"/>
+      <stop stop-color="#7dcfff" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main Terminal Card -->
+  <rect width="960" height="390" rx="18" fill="#1a1b26"/>
+  <rect x="9" y="9" width="942" height="372" rx="13" fill="none" stroke="url(#tn-border)" stroke-width="1.8"/>
+
+  <!-- Window Controls -->
+  <circle cx="36" cy="35" r="6" fill="#f7768e"/>
+  <circle cx="56" cy="35" r="6" fill="#e0af68"/>
+  <circle cx="76" cy="35" r="6" fill="#9ece6a"/>
+  <text x="104" y="40" fill="#7982a9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500">dasperless@cloud-box  ·  zsh  ·  profile.sh  ·  ● online</text>
+  <path d="M29 58H931" stroke="#24283b" stroke-width="1.5"/>
+
+  <!-- Left Terminal Pane -->
+  <rect x="29" y="76" width="604" height="282" rx="10" fill="#16161e" stroke="#2f3549" stroke-width="1.2"/>
+
+  <!-- Command 1: whoami -->
+  <text x="50" y="108" fill="#7dcfff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">❯ whoami</text>
+  <text x="50" y="138" fill="#c0caf5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="600">adrian_dario</text>
+  <text x="180" y="138" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">—</text>
+  <text x="205" y="138" fill="#e0af68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Computer Engineer &amp; Software Dev</text>
+
+  <path d="M50 158H613" stroke="#24283b" stroke-width="1.2"/>
+
+  <!-- Key Specs / Context -->
+  <text x="50" y="186" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">origin:</text>
+  <text x="145" y="186" fill="#bb9af7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">San José, Costa Rica 🇨🇷</text>
+
+  <text x="50" y="213" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">focus:</text>
+  <text x="145" y="213" fill="#7aa2f7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Cloud Infrastructure · Data Pipelines · Scalable Backends</text>
+
+  <text x="50" y="240" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">mindset:</text>
+  <text x="145" y="240" fill="#9ece6a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Automate workflows, reduce latency &amp; engineer for scale</text>
+
+  <!-- Command 2: ls expertise/ -->
+  <text x="50" y="278" fill="#7dcfff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">❯ ls expertise/</text>
+  
+  <text x="50" y="308" fill="#f7768e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">cloud_devops/</text>
+  <text x="195" y="308" fill="#a9b1d6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Azure · Docker · CI/CD · Databricks</text>
+
+  <text x="50" y="334" fill="#f7768e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">backend_systems/</text>
+  <text x="195" y="334" fill="#a9b1d6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">FastAPI · Python · Microservices · REST APIs</text>
+
+  <!-- Right Side Visual / Specs Pane -->
+  <rect x="653" y="76" width="278" height="282" rx="10" fill="#16161e" stroke="#2f3549" stroke-width="1.2"/>
+
+  <!-- Right Pane Header -->
+  <text x="675" y="108" fill="#bb9af7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">system_runtime.env</text>
+
+  <!-- Decorative Synthwave / Cyber Grid -->
+  <g transform="translate(675, 128)">
+    <circle cx="114" cy="52" r="42" fill="#7aa2f7" opacity="0.85"/>
+    <!-- Sun Grid Stripes -->
+    <path d="M72 52H156 M72 63H156 M72 74H156 M72 84H156" stroke="#16161e" stroke-width="3.5"/>
+
+    <!-- Horizon Wave Glow -->
+    <path d="M0 102 C35 78, 75 125, 115 95 S 190 75, 230 106" fill="none" stroke="#7dcfff" stroke-width="2.5" filter="url(#glow)"/>
+    <path d="M0 114 C35 90, 75 137, 115 107 S 190 87, 230 118" fill="none" stroke="#bb9af7" stroke-width="1.8"/>
+  </g>
+
+  <!-- Specs Info Text -->
+  <text x="675" y="278" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">arch:</text>
+  <text x="735" y="278" fill="#c0caf5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">x86_64 / Linux</text>
+
+  <text x="675" y="302" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">runtime:</text>
+  <text x="745" y="302" fill="#9ece6a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Python · Docker · Azure</text>
+
+  <text x="675" y="330" fill="#7982a9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">status: ready for production</text>
+</svg>
