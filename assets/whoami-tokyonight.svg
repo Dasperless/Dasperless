@@ -37,7 +37,7 @@
 
   <!-- Command 1: whoami -->
   <text x="50" y="108" fill="#7dcfff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">❯ whoami</text>
-  <text x="50" y="138" fill="#c0caf5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="600">adrian_dario</text>
+  <text x="50" y="138" fill="#c0caf5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="600">dario_vargas</text>
   <text x="180" y="138" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">—</text>
   <text x="205" y="138" fill="#e0af68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Computer Engineer &amp; Software Dev</text>
 
