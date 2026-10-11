@@ -1,25 +1,29 @@
 <div align="center">
 
 <a href="https://github.com/Dasperless">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Adrian%20Dario%20Vargas&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
+  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/51ef0112-1dc5-472a-a625-1f424a37941e" />
 </a>
 
 <br>
 
 <a href="https://github.com/Dasperless">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=800&lines=Adrian+Dario+%E2%80%94+Computer+Engineer+%7C+Software+Dev;Cloud+Infrastructure+%E2%80%A2+Data+Pipelines+%E2%80%A2+Backend;FastAPI+%E2%80%A2+Docker+%E2%80%A2+Azure+%E2%80%A2+Databricks;Automating+Workflows+%E2%80%A2+Scaling+Systems" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=800&lines=Dario+Vargas+%E2%80%94+Computer+Engineer+%7C+Software+Dev;Cloud+Infrastructure+%E2%80%A2+Data+Pipelines+%E2%80%A2+Backend;FastAPI+%E2%80%A2+Docker+%E2%80%A2+Azure+%E2%80%A2+Databricks;Automating+Workflows+%E2%80%A2+Scaling+Systems" alt="Typing Banner" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Dasperless&style=flat&color=7aa2f7&label=profile+views" alt="profile views">
+</br>
+
+<img src="https://komarev.com/ghpvc/?username=Dasperless&style=flat&color=7aa2f7&label=profile+views" alt="profile views"> 
 
 </div>
+
+
 
 ---
 
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-tokyonight.svg" width="960" alt="Terminal profile card for Adrian Dario, Computer Engineer & Software Developer">
+  <img src="assets/whoami-tokyonight.svg" width="960" alt="Terminal profile card for Dario Vargas, Computer Engineer & Software Developer">
 </p>
 
 ---
