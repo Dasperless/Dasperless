@@ -23,7 +23,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-tokyonight.svg" width="960" alt="Terminal profile card for Dario Vargas, Computer Engineer & Software Developer">
+  <img src="assets/whoami-tokyonight.v2.svg" width="960" alt="Terminal profile card for Dario Vargas, Computer Engineer & Software Developer">
 </p>
 
 ---
